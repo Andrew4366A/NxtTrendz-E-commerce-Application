@@ -2,6 +2,10 @@
 
 A React-based e-commerce frontend that supports user login, protected routes, product listing, product details, sorting, filtering, and cart basics.
 
+## Deployment Link
+
+nxt-trendz-e-commerce-application-rkjm-qxub0018x.vercel.app
+
 ## Features
 
 - User authentication flow with login API
@@ -53,12 +57,6 @@ Application routes are configured in `src/components/App.js`.
 ![nxttrends6](https://github.com/user-attachments/assets/4c928109-80f3-40a1-96b7-fca0a26c57f1)
 ![nxtTrendz7](https://github.com/user-attachments/assets/32f6dc05-2b2d-4c79-ad64-821250b20dcf)
 ![nxtTrendz8](https://github.com/user-attachments/assets/ab280964-af86-4643-b4de-648a0ea4112b)
-
-
-
-
-
-
 
 
 
