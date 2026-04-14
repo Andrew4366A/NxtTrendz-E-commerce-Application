@@ -45,10 +45,10 @@ Application routes are configured in `src/components/App.js`.
 `ProtectedRoute` wraps private routes and checks `jwt_token` from cookies.
 
 ## ScreenShots
+![nxttrends4](https://github.com/user-attachments/assets/1c8da66f-5dcd-4a52-acb8-1f5a7ed83fb9)
 ![nxttrendz1](https://github.com/user-attachments/assets/415ebede-9e0b-4c14-aab5-9db5f9665412)
 ![nxttrendz2](https://github.com/user-attachments/assets/59d40bae-2970-4cf1-b61c-e6b2fe58e64a)
 ![nxttrends3](https://github.com/user-attachments/assets/d5112d7c-3619-4531-abbd-bc1bdfa4cf53)
-![nxttrends4](https://github.com/user-attachments/assets/1c8da66f-5dcd-4a52-acb8-1f5a7ed83fb9)
 ![nxtttrends5](https://github.com/user-attachments/assets/e2041155-f922-4f29-9eee-1e108312225d)
 ![nxttrends6](https://github.com/user-attachments/assets/4c928109-80f3-40a1-96b7-fca0a26c57f1)
 ![nxtTrendz7](https://github.com/user-attachments/assets/32f6dc05-2b2d-4c79-ad64-821250b20dcf)
