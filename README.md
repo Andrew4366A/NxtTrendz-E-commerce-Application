@@ -8,11 +8,11 @@ nxt-trendz-e-commerce-application-rkjm-qxub0018x.vercel.app
 
 #Prime User
 Username: rahul 
-Password:rahul@2021
+Password: rahul@2021
 
 #Free User
-Username:raja
-Password:raja@2021
+Username: raja
+Password: raja@2021
 
 ## Features
 
