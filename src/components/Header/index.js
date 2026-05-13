@@ -1,4 +1,5 @@
 import {Link, withRouter} from 'react-router-dom'
+import {ClipboardList} from 'lucide-react'
 
 import Cookies from 'js-cookie'
 
@@ -58,6 +59,12 @@ const Header = props => {
                 Cart
               </Link>
             </li>
+
+            <li className="nav-menu-item">
+              <Link to="/orders" className="nav-link">
+                Orders
+              </Link>
+            </li>
           </ul>
           <button
             type="button"
@@ -96,6 +103,11 @@ const Header = props => {
                 alt="nav cart"
                 className="nav-bar-image"
               />
+            </Link>
+          </li>
+          <li className="nav-menu-item-mobile">
+            <Link to="/orders" className="nav-link">
+              <ClipboardList className="nav-lucide-image" aria-label="orders" />
             </Link>
           </li>
         </ul>
